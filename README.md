@@ -11,3 +11,10 @@ Day 3 : Introduction to .NET
 • Introduction to .NET and web API. Understand Swagger.
 • Understand N-tier Repository pattern folder structure and Entity Framework (EF).
 • Hands-on: Familiarize with .NET project structure and EF.
+        Learn about how to create project , also learn about the project structure ,created get request for getting books,created post request for creating new book
+also check the endpoints in swagger as well postman  
+Day 4 : .NET with Code First approach, LINQ, and Login Page
+• Understanding of LINQ.
+• Understanding of Code First Approach.
+• Hands-on: Build a login API and understand how to write LINQ queries with Code First Approach.
+        Learned how to create a custom Database in pgAdmin and migrate it. Also connected the endpoints  using Entity Framework Core to interact with a database.
