@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sneha\\source\\repos\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA867851-F85E-4771-8C3C-56B91B5885DF}|..\\BookApi.csproj\\BookApi.csproj|c:\\users\\sneha\\source\\repos\\bookapi.csproj\\bookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE1340-8AD1-49BF-B83C-584DD6128726}|..\\BooksApi.Data\\BooksApi.Data.csproj|c:\\users\\sneha\\source\\repos\\booksapi.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA867851-F85E-4771-8C3C-56B91B5885DF}|..\\BookApi.csproj\\BookApi.csproj|c:\\users\\sneha\\source\\repos\\bookapi.csproj\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7891D207-09A1-4B54-893C-CC6BE04A8433}|..\\BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sneha\\source\\repos\\booksapi.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\context\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7891D207-09A1-4B54-893C-CC6BE04A8433}|..\\BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sneha\\source\\repos\\booksapi.services\\services\\interface\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7891D207-09A1-4B54-893C-CC6BE04A8433}|..\\BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sneha\\source\\repos\\booksapi.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\dto\\loginresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:dto\\loginresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\migrations\\20250531212824_iniil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\repositories\\interface\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|c:\\users\\sneha\\source\\repos\\booksapi\\dto\\loginreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52CB50D-F652-4D89-A8B4-14C4C916C6F8}|BooksApi.csproj|solutionrelative:dto\\loginreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\migrations\\20250531161424_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\booksapi.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7891D207-09A1-4B54-893C-CC6BE04A8433}|..\\BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sneha\\source\\repos\\booksapi.services\\booksapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7891D207-09A1-4B54-893C-CC6BE04A8433}|..\\BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sneha\\source\\repos\\booksapi.services\\services\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\entities\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\repositories\\interface\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE1340-8AD1-49BF-B83C-584DD6128726}|..\\BooksApi.Data\\BooksApi.Data.csproj|c:\\users\\sneha\\source\\repos\\booksapi.data\\booksapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA867851-F85E-4771-8C3C-56B91B5885DF}|..\\BookApi.csproj\\BookApi.csproj|c:\\users\\sneha\\source\\repos\\bookapi.csproj\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE1340-8AD1-49BF-B83C-584DD6128726}|..\\BooksApi.Data\\BooksApi.Data.csproj|c:\\users\\sneha\\source\\repos\\booksapi.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7891D207-09A1-4B54-893C-CC6BE04A8433}|..\\BooksApi.Services\\BooksApi.Services.csproj|c:\\users\\sneha\\source\\repos\\booksapi.services\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8503A-5481-455B-9564-232923CE3450}|..\\BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\sneha\\source\\repos\\booksapi.entities\\migrations\\20250601151135_iitia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "Helper\\JwtHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:54:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:05:14.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:01:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAApwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:13:34.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T11:04:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T16:08:51.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:09:32.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BookApi.csproj\\BookApi.csproj",
+              "RelativeDocumentMoniker": "..\\BookApi.csproj\\BookApi.csproj",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BookApi.csproj\\BookApi.csproj",
+              "RelativeToolTip": "..\\BookApi.csproj\\BookApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T07:49:02.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T16:45:31.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\Interface\\IUserServices.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Services\\Services\\Interface\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\Interface\\IUserServices.cs",
+              "RelativeToolTip": "..\\BooksApi.Services\\Services\\Interface\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:16:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\BooksApi.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:17:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BooksApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\BooksApi.csproj",
+              "RelativeDocumentMoniker": "BooksApi.csproj",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\BooksApi.csproj",
+              "RelativeToolTip": "BooksApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T09:37:07.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250601151135_iitia.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Migrations\\20250601151135_iitia.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Migrations\\20250601151135_iitia.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Migrations\\20250601151135_iitia.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Migrations\\20250601151135_iitia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:11:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BookApi.csproj\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.csproj\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BookApi.csproj\\Models\\Book.cs",
+              "RelativeToolTip": "..\\BookApi.csproj\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:25:48.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Data\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Data\\Models\\Book.cs",
+              "RelativeToolTip": "..\\BooksApi.Data\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:56:31.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Context\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Context\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Context\\BookDbContext.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Context\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:16:11.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginResDto.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Dto\\LoginResDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginResDto.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Dto\\LoginResDto.cs",
+              "RelativeToolTip": "Dto\\LoginResDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:20:29.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250531212824_iniil.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Migrations\\20250531212824_iniil.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Migrations\\20250531212824_iniil.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Migrations\\20250531212824_iniil.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Migrations\\20250531212824_iniil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:28:25.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Services\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\BookService.cs",
+              "RelativeToolTip": "..\\BooksApi.Services\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:38:36.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\Interface\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Repositories\\Interface\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\Interface\\UserRepository.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Repositories\\Interface\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:10:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:32:53.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginReqDto.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Dto\\LoginReqDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginReqDto.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi\\Dto\\LoginReqDto.cs",
+              "RelativeToolTip": "Dto\\LoginReqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:19:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:59:38.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250531161424_initial.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Migrations\\20250531161424_initial.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Migrations\\20250531161424_initial.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Migrations\\20250531161424_initial.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Migrations\\20250531161424_initial.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:14:24.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BooksApi.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\BooksApi.Entities.csproj",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\BooksApi.Entities.csproj",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\BooksApi.Entities.csproj",
+              "RelativeToolTip": "..\\BooksApi.Entities\\BooksApi.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T16:14:16.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Entities\\BookDetails.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Entities\\BookDetails.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Entities\\BookDetails.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Entities\\BookDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:55:31.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BooksApi.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\BooksApi.Services.csproj",
+              "RelativeDocumentMoniker": "..\\BooksApi.Services\\BooksApi.Services.csproj",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\BooksApi.Services.csproj",
+              "RelativeToolTip": "..\\BooksApi.Services\\BooksApi.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T18:33:44.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Services\\Services\\Interface\\IBookService.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\Services\\Interface\\IBookService.cs",
+              "RelativeToolTip": "..\\BooksApi.Services\\Services\\Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:07:27.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\Interface\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Repositories\\Interface\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Repositories\\Interface\\IBookRepository.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Repositories\\Interface\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:58:32.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BooksApi.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Data\\BooksApi.Data.csproj",
+              "RelativeDocumentMoniker": "..\\BooksApi.Data\\BooksApi.Data.csproj",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Data\\BooksApi.Data.csproj",
+              "RelativeToolTip": "..\\BooksApi.Data\\BooksApi.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T07:55:58.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BookApi.csproj\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.csproj\\Class1.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BookApi.csproj\\Class1.cs",
+              "RelativeToolTip": "..\\BookApi.csproj\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:44:26.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Entities\\Class1.cs",
+              "RelativeToolTip": "..\\BooksApi.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:53:48.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BooksApi.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Data\\Class1.cs",
+              "RelativeToolTip": "..\\BooksApi.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:37:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\.editorconfig",
+              "RelativeDocumentMoniker": "..\\BooksApi.Services\\.editorconfig",
+              "ToolTip": "C:\\Users\\sneha\\source\\repos\\BooksApi.Services\\.editorconfig",
+              "RelativeToolTip": "..\\BooksApi.Services\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-29T15:13:47.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
